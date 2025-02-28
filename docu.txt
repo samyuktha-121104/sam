@@ -1,0 +1,8 @@
+
+<book_store>
+<book>
+<title>book title</title>
+<author>author name</author>
+<price>price of the book</price>
+</book>
+</book_store>
